@@ -1,0 +1,7 @@
+{
+  "name": "Generate and scan qrcode",
+  "description": "A versatile tool to scan QR codes and barcodes using your camera, and to generate your own custom codes. Easily copy, download, and share scanned or generated information.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
